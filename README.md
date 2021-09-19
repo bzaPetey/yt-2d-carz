@@ -1,2 +1,3 @@
 # yt-2d-carz
-Two player, 2D car racing game made in C# and godot.
+
+In an effort to enrich the Godot community, this game is created as an example made in C# as a part of the Unity Refugee series on YouTube.
